@@ -21,8 +21,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: VFX_Glow_Round_Hard_Color_MAT
-  m_Shader: {fileID: -6465566751694194690, guid: 89b57fe84332d67408d22ee2ba551485, type: 3}
-  m_Parent: {fileID: 2100000, guid: 3315d1b043310f747912f6b56ee0ed84, type: 2}
+  m_Shader: {fileID: -6465566751694194690, guid: 6f97d8f5ca60d734b86eb90fc60b1304, type: 3}
+  m_Parent: {fileID: 2100000, guid: 91ec4e4d1e7a44446b304391059e9d81, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords:
